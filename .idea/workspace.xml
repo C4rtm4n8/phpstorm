@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a187b68-c6b0-47f3-8a9e-fbbf51de30d8" name="Default Changelist" comment="" />
+    <list default="true" id="4a187b68-c6b0-47f3-8a9e-fbbf51de30d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,14 +24,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hGJNYJC6YPFkYgxJAn0d0Ullxk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -49,7 +59,7 @@
       <workItem from="1599631468875" duration="801000" />
       <workItem from="1600243692681" duration="527000" />
       <workItem from="1600806197471" duration="1346000" />
-      <workItem from="1600844830563" duration="70000" />
+      <workItem from="1600844830563" duration="2228000" />
     </task>
     <servers />
   </component>
@@ -61,14 +71,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1600844231351" />
-    <state x="647" y="330" key="Github.ShareDialog" timestamp="1600844712208">
+    <state x="647" y="330" key="Github.ShareDialog" timestamp="1600845117194">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="647" y="330" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1600844712208" />
+    <state x="647" y="330" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1600845117194" />
+    <state x="565" y="137" key="Github.UntrackedFilesDialog" timestamp="1600844924161">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="565" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1600844924161" />
     <state x="604" y="355" key="NewPhpFileDialog" timestamp="1599631529346">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="604" y="355" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1599631529346" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1600845093701">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1600845093701" />
     <state x="425" y="199" key="run.anything.popup" timestamp="1600844213496">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
